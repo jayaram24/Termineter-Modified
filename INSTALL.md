@@ -6,7 +6,9 @@ The requirements are listed in the requirements.txt file. They can
 be installed with `python3 -m pip install -r requirements.txt`.
 
 ## How To Install Termineter
-No installation or modification is necessary.  Start a command
+
+Termineter can be installed from the Python Package Index using
+pip. Simply run `sudo pip install termineter`. Start a command
 prompt, navigate to the termineter directory and use python to run
 termineter.
 
